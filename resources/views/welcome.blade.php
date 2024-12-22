@@ -44,7 +44,7 @@
 
                 <div class="form-group">
                     <label for="telefon">{{__('Telefonska številka*')}}</label>
-                    <input type="text" name="telefon" id="telefon" class="form-control">
+                    <input type="text" name="telefon" id="telefon" class="form-control" placeholder="+38640222333">
                 </div>
 
                 <div class="form-group">
